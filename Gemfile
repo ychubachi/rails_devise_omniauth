@@ -30,4 +30,7 @@ gem 'jquery-rails'
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
 
-gem "haml-rails"
+gem 'haml-rails'
+gem 'devise'
+gem 'omniauth'
+gem 'omniauth-openid'
