@@ -65,6 +65,7 @@ GEM
       treetop (~> 1.4.8)
     mime-types (1.17.2)
     multi_json (1.0.3)
+    oa-core (0.3.2)
     omniauth (1.0.0)
       hashie (~> 1.2)
       rack
@@ -136,6 +137,7 @@ DEPENDENCIES
   devise
   haml-rails
   jquery-rails
+  oa-core
   omniauth
   omniauth-openid
   rails (= 3.1.1)
